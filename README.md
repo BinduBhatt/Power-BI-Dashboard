@@ -1,4 +1,4 @@
-I have created my first dashboard on Power BI with the help of You tube tutorial of “Rishabh Mishra”, the link of which is given below.
+I have created my first report on Power BI with the help of You tube tutorial of “Rishabh Mishra”, the link of which is given below.
 https://www.youtube.com/watch?v=6cV3OwFrOkk
 
 •	I used different visuals to showcase the trends like Line and column chart, pie chart and ribbon charts.
